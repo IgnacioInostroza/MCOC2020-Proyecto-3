@@ -5,8 +5,11 @@ El siguiente informe tiene como finalidad presentar los resultados obtenidos al 
 Los pasos para obtener la discretización de la condición de borde natural en el extremo izquierdo del dominio son:
 
 du(t,0)/dx = 5
+
 =>(u(t,1) - u(t,0))/dx = 5  / *dx
+
 => -u(t,0) = 5dx - u(t,1)  / *(-1)
+
 => u(t,0) = -5dx + u(t,1)
 
 ¿Convergió la solución?
