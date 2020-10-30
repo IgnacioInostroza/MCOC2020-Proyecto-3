@@ -17,3 +17,7 @@ Los casos en que se puede aplicar una condición de borde natural del tipo estud
 ![deltat2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20delta%20tiempo.png)
 ![deltat3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20delta%20tiempo.png)
 Figura 1: Evolución térmica en diferentes Delta t.
+![deltamalla1](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.104%20malla.png)
+![deltamalla2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20malla.png)
+![deltamalla3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20malla.png)
+Figura 2: Evolución térmica en diferentes mallas.
