@@ -15,14 +15,17 @@ du(t,0)/dx = 5
 Los casos en que se puede aplicar una condición de borde natural del tipo estudiado serían los casos definidos en la memoria como del cuarto tipo, es decir, los que tienen contacto directo entre superficies de dos sólidos diferentes. A pesar de que este no sea el tipo que mejor representa la transferencia entre la superficie del hormigón y el medio contiguo.
 
 Figura 1: Evolución térmica en diferentes Delta t.
+
 ![deltat1](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.104%20delta%20tiempo.png)
 ![deltat2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20delta%20tiempo.png)
 ![deltat3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20delta%20tiempo.png)
 
 Figura 2: Evolución térmica en diferentes mallas.
+
 ![deltamalla1](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.104%20malla.png)
 ![deltamalla2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20malla.png)
 ![deltamalla3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20malla.png)
 
 Figura 3: Curvas de evolución termica.
+
 ![CET](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/curvas%20de%20evoluci%C3%B3n%20t%C3%A9rmica.png)
