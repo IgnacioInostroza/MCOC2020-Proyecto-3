@@ -1,5 +1,5 @@
 # MCOC2020-Proyecto-3
-Informe Verificar código 1-D
+Informe Verificar código 1-D:
 El siguiente informe tiene como finalidad presentar los resultados obtenidos al verificar el código 1-D. 
 Los pasos para obtener la discretización de la condición de borde natural en el extremo izquierdo del dominio son:
 
@@ -16,3 +16,4 @@ Los casos en que se puede aplicar una condición de borde natural del tipo estud
 ![deltat1](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.104%20delta%20tiempo.png)
 ![deltat2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20delta%20tiempo.png)
 ![deltat3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20delta%20tiempo.png)
+Figura 1: Evolución térmica en diferentes Delta t.
