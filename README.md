@@ -1,5 +1,6 @@
 # MCOC2020-Proyecto-3
 Informe Verificar código 1-D:
+
 El siguiente informe tiene como finalidad presentar los resultados obtenidos al verificar el código 1-D. 
 Los pasos para obtener la discretización de la condición de borde natural en el extremo izquierdo del dominio son:
 
@@ -9,6 +10,11 @@ du(t,0)/dx = 5
 => u(t,0) = -5dx + u(t,1)
 
 ¿Convergió la solución?
+
+Como se puede ver en el gráfico número 1 al avanzar el tiempo se presenta una convergencia lineal para la temperatura a través del largo. Se puede observar que la pendiente de variación de la temperatura respecto al largo del elemento tiende a ser la misma pendiente impuesta en la condición de borde natural del hormigón.
+
+Junto a esto se puede ver en los otros gráficos que para cambios en el Δt la variación de temperatura no se vio alterada. Sin embargo, al variar el número de mallas en el sistema se puede observar que el cambio es más significativo para los mismos sectores de la barra analizada.
+
 
 ¿En qué casos cree ud. que se puede aplicar una condición de borde natural del tipo estudiado hasta ahora?
 
