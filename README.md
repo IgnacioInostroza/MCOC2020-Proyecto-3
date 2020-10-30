@@ -15,3 +15,4 @@ du(t,0)/dx = 5
 Los casos en que se puede aplicar una condición de borde natural del tipo estudiado serían los casos definidos en la memoria como del cuarto tipo, es decir, los que tienen contacto directo entre superficies de dos sólidos diferentes. A pesar de que este no sea el tipo que mejor representa la transferencia entre la superficie del hormigón y el medio contiguo.
 ![deltat1](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.104%20delta%20tiempo.png)
 ![deltat2](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.208%20delta%20tiempo.png)
+![deltat3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3/main/x%3D0.416%20delta%20tiempo.png)
